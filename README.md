@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **DiamondMofeng/DiamondMofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💎 I'm Mofeng. Diamond beacuse there are many other Mofeng.
+- 🌱 I’m currently learning to become a frontend developer.   
+- ❤️ My favourite frontend framework is [React](https://github.com/facebook/react)
+
+|[![Mofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondMofeng)](https://github.com/anuraghazra/github-readme-stats)   |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMofeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
+
+
