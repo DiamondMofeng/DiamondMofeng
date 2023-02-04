@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 
 [关注Mofeng喵，关注Mofeng谢谢喵](https://live.bilibili.com/1450178)
 
-|[![Mofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondMofeng)](https://github.com/anuraghazra/github-readme-stats)   |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMofeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|
+
+| [![Mofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondMofeng)](https://github.com/anuraghazra/github-readme-stats)   | [![streaks](https://github-readme-streak-stats.herokuapp.com/?user=diamondmofeng)](https://github.com/DiamondMofeng)  |
+| :-: | :-: |
+|  [![LeetCode Stats](https://leetcard.jacoblin.cool/Mofengfeng?theme=light&font=Rubik&ext=heatmap&site=cn)](https://leetcode-cn.com/u/mofengfeng/) |     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondMofeng&layout=compact&card_width=380)](https://github.com/anuraghazra/github-readme-stats)  |
+
+
 
 
